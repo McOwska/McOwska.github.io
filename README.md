@@ -3,14 +3,14 @@
 
 
 ## Edukacja: ## 
-:school: Społeczne Gimnazjum nr 1 w Poznaniu 
+Społeczne Gimnazjum nr 1 w Poznaniu 
 
-:school: VIII Liceum Ogólnokształcące w Poznaniu
+VIII Liceum Ogólnokształcące w Poznaniu
 
-:school: AGH Informatyka i Systemy Inteligentne
+AGH Informatyka i Systemy Inteligentne
 
 ## dodatkowe kursy
-:horse_racing: Kurs Instruktora Jazdy Konnej
+Kurs Instruktora Jazdy Konnej
 
-:musical_keyboard: ABRSM Piano grade 8
+ABRSM Piano grade 8
 
