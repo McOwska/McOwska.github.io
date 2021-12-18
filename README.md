@@ -16,20 +16,20 @@ Efekt finalny naszej gry:
 Twórcy projektu Kulawy Kustosz:
 
 Weronika Hilaszek:
-https://werkah.github.io/
+<a href="https://werkah.github.io/"> strona Weroniki </a>
 
 Zuzanna Makowska:
-https://mcowska.github.io/
+<a href="https://mcowska.github.io/"> strona Zuzy </a>
 
 Mateusz Mirecki:
-https://mateuszmirecki.github.io./
+<a href="https://mateuszmirecki.github.io./"> strona Matiego </a>
 
 Wiktor Prosowicz:
-https://leszywkniei.github.io/
+<a href="https://leszywkniei.github.io/"> strona Wiktora </a>
 
 Karolina Surówka:
-https://ksuroweczka.github.io/
+<a href="https://ksuroweczka.github.io/"> strona Karoliny </a>
 
 Łukasz Zawadzki:
-https://lukzawadzki.github.io/
+<a href="https://lukzawadzki.github.io/"> strona Łukasza </a>
 
