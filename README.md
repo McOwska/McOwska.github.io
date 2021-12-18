@@ -12,10 +12,22 @@ Projekt Kulawy Kustosz tworzyliśmy w ramach zaliczenia przedmiotu Narzędzia In
 Efekt finalny naszej gry:
 
 Twórcy projektu Kulawy Kustosz:
+
 Weronika Hilaszek:
+https://werkah.github.io/
+
 Zuzanna Makowska:
+https://mcowska.github.io/
+
 Mateusz Mirecki:
+https://mateuszmirecki.github.io./
+
 Wiktor Prosowicz:
-Karaolina Surówka:
+https://leszywkniei.github.io/
+
+Karolina Surówka:
+https://ksuroweczka.github.io/
+
 Łukasz Zawadzki:
+https://lukzawadzki.github.io/
 
